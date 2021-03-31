@@ -52,7 +52,7 @@ Proiectul contine 4 parti:
 ✅9. Folosirea de proceduri statistice</br>
 ✅10.Generarea de grafice</br>
 
-# 📥Partea IV-a - SAS Enterprise Guide
+# 📥Partea a IV-a - SAS Enterprise Guide
 ✅1. Importul unui fisier non-SAS</br>
 ✅2. Interogări</br>
 ✅3. Joncţiune</br>
