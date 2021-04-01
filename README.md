@@ -10,7 +10,7 @@ Proiectul contine 4 parti:
 3. Partea a III-a - Programare SAS
 4. Partea a IV-a - SAS Enterprise Guide
 
-## Instrumente folosite:
+## 🛠️Instrumente folosite:
 <a href = "">
     <img src = "Logo/Excel.png" alt="Excel" width = "auto" height="40px" align="center" title="Excel" />
 </a>
