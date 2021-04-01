@@ -9,22 +9,26 @@ Proiectul contine 4 parti:
 2. Partea a II-a - Python
 3. Partea a III-a - Programare SAS
 4. Partea a IV-a - SAS Enterprise Guide
-5. 
+
 ## Instrumente folosite:
 <a href = "">
     <img src = "Logo/Excel.png" alt="Excel" width = "auto" height="40px" align="center" title="Excel" />
 </a>
+
 <a href = "">
     <img src = "Logo/Python.png" alt="Python" width = "auto" height="40px" align="center" title="Python" />
 </a>
+
 <a href = "">
     <img src = "Logo/anaconda.png" alt="Anaconda" width = "auto" height="40px" align="center" title="Anaconda" />
 </a>
+
 <a href = "">
     <img src = "Logo/SAS.png" alt="SAS" width = "auto" height="40px" align="center" title="SAS" />
 </a>
+
 <a href = "">
-    <img src = "Logo/Ju.png" alt="Jupyter Lab" width = "auto" height="40px" align="center" title="Jupyter Lab" />
+    <img src = "Logo/ju.png" alt="Jupyter Lab" width = "auto" height="40px" align="center" title="Jupyter Lab" />
 </a>
 
 # 📋Partea I - Excel
