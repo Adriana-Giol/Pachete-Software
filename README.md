@@ -1,5 +1,10 @@
-# Pachete Software
-### Descriere:
+# 💚Pachete Software
+**Proiect final in limbajele Python si SAS**</br>
+**Profesor coordonator: Uta Adina**</br>
+**An universitar: 2019-2020**</br>
+**Grupa 1078 | Seria C**</br>
+
+### Descrierea Proiectului:
 Acesta este proiectul final pentru cursul universitar "Pachete Software" din anul III, semestrul II.
 ~ Analiza activitatii unei organizatii si a eventualelor posibilitati de extindere a acesteia ~ In cazul proiectului meu, acesta se refera la o telefiziune coreeana, Arirang TV, al carei Manager doreste extinderea si diversificarea activitatii acesteia.
 <!-- This is the final project for the "Software Packages" course from year III, semester II at university. -->
