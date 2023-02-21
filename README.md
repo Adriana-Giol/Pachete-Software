@@ -17,23 +17,23 @@ Proiectul contine 4 parti:
 
 ## 🛠️Instrumente folosite:
 <a href = "">
-    <img src = "Logo/Excel.png" alt="Excel" width = "auto" height="40px" align="center" title="Excel" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_Excel.png" alt="Excel" width = "auto" height="40px" align="center" title="Excel" />
 </a>
 
 <a href = "">
-    <img src = "Logo/Python.png" alt="Python" width = "auto" height="40px" align="center" title="Python" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_Python.png" alt="Python" width = "auto" height="40px" align="center" title="Python" />
 </a>
 
 <a href = "">
-    <img src = "Logo/anaconda.png" alt="Anaconda" width = "auto" height="40px" align="center" title="Anaconda" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_Anaconda.png" alt="Anaconda" width = "auto" height="40px" align="center" title="Anaconda" />
 </a>
 
 <a href = "">
-    <img src = "Logo/SAS.png" alt="SAS" width = "auto" height="40px" align="center" title="SAS" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_SAS.png" alt="SAS" width = "auto" height="40px" align="center" title="SAS" />
 </a>
 
 <a href = "">
-    <img src = "Logo/ju.png" alt="Jupyter Lab" width = "auto" height="40px" align="center" title="Jupyter Lab" />
+    <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_JupyterLab.png" alt="Jupyter Lab" width = "auto" height="40px" align="center" title="Jupyter Lab" />
 </a>
 
 # 📋Partea I - Excel
