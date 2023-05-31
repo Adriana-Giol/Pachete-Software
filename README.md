@@ -36,6 +36,44 @@ Proiectul contine 4 parti:
     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_JupyterLab.png" alt="Jupyter Lab" width = "auto" height="40px" align="center" title="Jupyter Lab" />
 </a>
 
+## 🛠👀Arunca o privire:
+<a href = "">
+    <img src = "https://github.com/Adriana-Giol/Proiect-Pachete-Software/assets/60271540/af475801-fcd1-419b-a5a6-f2c6a5b45e22" 
+         alt="Excel"
+         width = "auto" 
+         height="350px" 
+         align="center" 
+         title="Excel" />
+</a>
+
+<a href = "">
+    <img src = "https://github.com/Adriana-Giol/Proiect-Pachete-Software/assets/60271540/43189618-e00a-414d-866f-d78cda6f03e9" 
+         alt="Python"
+         width = "auto" 
+         height="350px" 
+         align="center" 
+         title="Python" />
+</a>
+
+<a href = "">
+    <img src = "https://github.com/Adriana-Giol/Proiect-Pachete-Software/assets/60271540/54a9df0e-c79d-4d73-bad6-dc949d49c45b" 
+         alt="Programare SAS"
+         width = "auto" 
+         height="350px" 
+         align="center" 
+         title="Programare SAS" />
+</a>
+
+<a href = "">
+    <img src = "https://github.com/Adriana-Giol/Proiect-Pachete-Software/assets/60271540/6f3cbf0a-3d44-4ae5-b738-d034b282d867" 
+         alt="SAS Enterprise"
+         width = "auto" 
+         height="350px" 
+         align="center" 
+         title="SAS Enterprise" />
+</a>
+
+
 # 📋Partea I - Excel
 ✔️1. Funcţii matriceale</br>
 ✔️2. Funcţii financiare</br>
