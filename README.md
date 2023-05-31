@@ -36,7 +36,7 @@ Proiectul contine 4 parti:
     <img src = "https://github.com/Adriana-Giol/Adriana-Giol/blob/main/Logo/Logo_Tools_JupyterLab.png" alt="Jupyter Lab" width = "auto" height="40px" align="center" title="Jupyter Lab" />
 </a>
 
-## 🛠👀Arunca o privire:
+## 👀Arunca o privire:
 <a href = "">
     <img src = "https://github.com/Adriana-Giol/Proiect-Pachete-Software/assets/60271540/af475801-fcd1-419b-a5a6-f2c6a5b45e22" 
          alt="Excel"
