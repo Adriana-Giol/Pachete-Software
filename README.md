@@ -41,7 +41,7 @@ Proiectul contine 4 parti:
     <img src = "https://github.com/Adriana-Giol/Proiect-Pachete-Software/assets/60271540/af475801-fcd1-419b-a5a6-f2c6a5b45e22" 
          alt="Excel"
          width = "auto" 
-         height="300px" 
+         height="250px" 
          align="center" 
          title="Excel" />
 </a>
@@ -50,7 +50,7 @@ Proiectul contine 4 parti:
     <img src = "https://github.com/Adriana-Giol/Proiect-Pachete-Software/assets/60271540/43189618-e00a-414d-866f-d78cda6f03e9" 
          alt="Python"
          width = "auto" 
-         height="300px" 
+         height="250px" 
          align="center" 
          title="Python" />
 </a>
